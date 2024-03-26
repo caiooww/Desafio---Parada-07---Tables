@@ -10,23 +10,26 @@ body{
     background-color: var(--bg_site);
 }
 
-table{
-    margin: auto;
-    text-align: center;
-    border-spacing: 0px;
-    background-color: var(--bg_table);
-}
+
 
 table, th, td{
     border: 1px solid var(--c_border);
 }
 
-th, td{
-    width: 600px;
-    height: 35px;
-}
 
 th{
     background-color: var(--c_th);
     color: var(--c_th_text);
+}
+
+table{
+    margin: auto;
+    border-spacing: 0px;
+    background-color: var(--bg_table);
+    width: 600px;
+    height: 400px;
+}
+
+td{ 
+    text-align: center;
 }
