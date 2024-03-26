@@ -1,6 +1,6 @@
 Repositório criado para o desafio 07 da Kick
 
-Instructions
+Instructions:  
 Tente fazer uma tabela igual a da imagem abaixo. Utilize o CSS para estilizar sua tabela.
 
 Tamanho da tabela:
