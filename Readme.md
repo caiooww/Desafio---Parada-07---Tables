@@ -1,3 +1,7 @@
+Link para o Vercel, válido até a data de correção:
+https://desafio-parada-07-tables.vercel.app/
+
+
 Repositório criado para o desafio 07 da Kick
 
 Instructions:  
