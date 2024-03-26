@@ -7,4 +7,4 @@ Tamanho da tabela:
 Width: 600px 
 Height: 400px (opcional)
 
-<img src="img/thumbnail.png"
+![thumbnail](https://github.com/caiooww/Desafio---Parada-07---Tables/assets/95089046/859159fd-0560-4e11-8c9e-4d39ef3e9d08)
